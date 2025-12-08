@@ -5,7 +5,7 @@ project:
 # ~ additional metadata ~
 
 website:
-  title: "nedasfr"
+  title: "Neda Safari"
   navbar:
     left:
       - href: index.qmd

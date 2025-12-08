@@ -4,18 +4,18 @@ title: "About Me"
 
 I am passionate about natural resource management, water governance, and ecological conservation. With a strong academic background and an interest for finding innovative solutions to complex problems, I have consistently demonstrated my ability to analyze and evaluate data, communicate effectively, and collaborate with diverse teams. My expertise in GIS and data analysis has allowed me to develop innovative solutions to complex environmental problems. I am committed to utilizing my skills and experience to promote sustainable development and address pressing environmental issues.
 
-**EDUCATION**
+#### **EDUCATION**
 
 -   **Ph.D. Watershed Science,** Colorado State University, USA (2024-2029) Department of Ecosystem Science and Sustainability, GPA: 4.00/4.00
 
 -   **M.Sc. Geography,** East Carolina University, Greenville, NC, USA (2022-2024) Department of Geography, Planning, Environment, GPA: 4.00/4.00
 
-**CERTIFICATIONS**
+#### **CERTIFICATIONS**
 
--   **Data Analysis** Graduate Certificate (2024-2025) Colorado State University, Fort Collins, CO
+-   **Data Analysis** Graduate Certificate, Colorado State University, Fort Collins, CO. (2024-2025)
 
--   **Geographic Information Systems** Professional Certification (GIS) - (2022-2024) East Carolina University, Greenville, NC
+-   **Geographic Information Systems** Professional Certification (GIS), East Carolina University, Greenville, NC. (2022-2024)
 
-**Professional Skills**
+#### **Professional Skills**
 
 Python, R, Linux, ArcGIS Pro, ArcMap, QGIS, WebGIS, ArcPy, Expert Choice, SPSS, ICDL, Idrisi, Envi, Google Earth Engine, ERDAS, Machine Learning, Remote Sensing.
