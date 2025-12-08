@@ -2,8 +2,8 @@
 title: "About"
 ---
 
-About this site
+I am passionate about natural resource management, water governance, and ecological conservation. With a strong academic background and an interest for finding innovative solutions to complex problems, I have consistently demonstrated my ability to analyze and evaluate data, communicate effectively, and collaborate with diverse teams. My expertise in GIS and data analysis has allowed me to develop innovative solutions to complex environmental problems. I am committed to utilizing my skills and experience to promote sustainable development and address pressing environmental issues.
 
 ```{r}
-1 + 1
+
 ```
