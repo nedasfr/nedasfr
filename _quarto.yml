@@ -11,9 +11,11 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Presentations.qmd
       - Publications.qmd
       - Projects.qmd
       - Daily-Joys.qmd
+
 
 format:
   html:
