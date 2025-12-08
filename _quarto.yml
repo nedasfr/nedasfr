@@ -12,6 +12,7 @@ website:
         text: Home
       - about.qmd
       - Projects.qmd
+      - Daily-Joys.qmd
 
 format:
   html:
