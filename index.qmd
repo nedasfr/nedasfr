@@ -10,5 +10,4 @@ about:
       href: https://github.com/nedasfr
     - text: Email
       href: mailto:neda.safari@colostate.edu
-  image: nedaimg.jpg
 ---
