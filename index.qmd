@@ -1,6 +1,7 @@
 ---
 title: "Neda Safari"
 subtitle: "Ph.D. Student in Watershed Science, Colorado State University"
+image: nedaimg.jpg
 about: 
   template: jolla
   links:
