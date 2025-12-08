@@ -1,5 +1,8 @@
 project:
   type: website
+  output-dir: docs
+  
+# ~ additional metadata ~
 
 website:
   title: "nedasfr"
