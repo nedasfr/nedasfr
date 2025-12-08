@@ -15,6 +15,18 @@ about:
       href: https://scholar.google.com/citations?hl=en&user=r7fDG40AAAAJ
 ---
 
+<style>
+.about-links {
+  margin-bottom: 0.5em;
+}
+.last-update {
+  text-align: center;
+  font-size: 0.85em;
+  color: #666;
+  margin-top: 1em;
+}
+</style>
+
 ::: {.last-update}
 Last update: 12/8/2025
 :::
