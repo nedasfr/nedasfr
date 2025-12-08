@@ -16,6 +16,6 @@ I am passionate about natural resource management, water governance, and ecologi
 
 -   **Geographic Information Systems** Professional Certification (GIS) - (2022-2024) East Carolina University, Greenville, NC
 
-```{r}
+**Professional Skills**
 
-```
+Python, R, Linux, ArcGIS Pro, ArcMap, QGIS, WebGIS, ArcPy, Expert Choice, SPSS, ICDL, Idrisi, Envi, Google Earth Engine, ERDAS, Machine Learning, Remote Sensing.
