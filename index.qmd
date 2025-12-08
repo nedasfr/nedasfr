@@ -11,4 +11,6 @@ about:
       href: https://github.com/nedasfr
     - text: Email
       href: mailto:neda.safari@colostate.edu
+    - text: Scholar
+      href: https://scholar.google.com/citations?hl=en&user=r7fDG40AAAAJ
 ---
