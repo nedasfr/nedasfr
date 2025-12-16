@@ -11,3 +11,7 @@ title: "Projects"
 -   Water Quality Analysis in the Khoda Afarin Transboundary Reservoir, Iran.
 
 ![Water Quality Change (Chlorophyll, turbidity, overall water quality)](NDWI.jpg){fig-align="center" width="803"}
+
+-   Assessing the Environmental Effects and Regulatory Influences of the Condit Dam Removal Process
+
+    ![Location of Condit Dam on White Salmon River](Condit.jpg){width="708"}
