@@ -5,3 +5,7 @@ title: "Projects"
 -   [Policies for Establishing a Guideline to Protect the Ecological Flows in NC, USA.](https://apnep.nc.gov/documents/files/projects/ap-ecological-flows-phase-ii-report) (APNEP funded project) (2022- 2023) East Carolina University, Greenville, North Carolina, USA.
 
 -   Evaluating Transboundary Water Governance by Dam Construction Trends. (2024- 2025) Colorado State University, Fort Collins, Colorado, USA.
+
+-   Water Quality Analysis in the Khoda Afarin Transboundary Reservoir, Iran.
+
+![Water Quality Change (Chlorophyll, turbidity, overall water quality)](NDWI.jpg){fig-align="center" width="803"}
