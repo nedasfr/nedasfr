@@ -2,7 +2,7 @@
 title: "Publications"
 ---
 
--   Chadalavada, S., Bolan, S., Mukherjee, S., Hata, A., Fan, C., Lee, Y. Y., ... & Bolan, N. (2026). Climate change and groundwater contamination: out-of-sight and hidden threat. Groundwater for Sustainable Development, 101599.
+-   [Chadalavada, S., Bolan, S., Mukherjee, S., Hata, A., Fan, C., Lee, Y. Y., ... & Bolan, N. (2026). Climate change and groundwater contamination: out-of-sight and hidden threat. Groundwater for Sustainable Development, 101599.](https://www.sciencedirect.com/science/article/pii/S2352801X2600024X)
 
 -   [Sereshti., M., Valibeigi, M., Safari, N. A Framework for Assessment of Water Poverty in Iran”, Chinese Journal of Urban and Environmental Studies Vol. 11, No. 4 (2023)](https://www.worldscientific.com/doi/pdf/10.1142/S2345748123500227)
 
