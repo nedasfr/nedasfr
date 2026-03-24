@@ -1,9 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=2C7AC3&height=200&section=header&text=Neda%20Safari&fontSize=50&fontColor=white&desc=PhD%20Researcher%20%7C%20Watershed%20Science&descAlignY=75&descSize=20)
-
-<div align="center">
-
-# Hi, I'm NEDA SAFARI
-### Environmental Data Scientist, Water Resources Researcher
+![header](https://capsule-render.vercel.app/api?type=waving&color=1B5E20&height=200&section=header&text=Neda%20Safari&fontSize=50&fontColor=white&desc=Environmental%20Data%20Scientist%20%7C%20Watershed%20Science&descAlignY=75&descSize=20)
 
 </div>
 
