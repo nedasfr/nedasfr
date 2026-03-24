@@ -1,8 +1,7 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2F80ED&center=true&width=600&lines=Hi%2C+I'm+[NEDA+SAFARI]+👋;[Environmental+Data+Scientist])](https://git.io/typing-svg)
-
-[Water Resources Researcher]
+# Hi, I'm [NEDA SAFARI] 👋
+### [Environmental Data Scientist, Water Resources Researcher]
 
 </div>
 
