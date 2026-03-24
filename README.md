@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0D2B1A&height=250&section=header&text=Neda%20Safari&fontSize=50&fontColor=ffffff&desc=Environmental%20Data%20Scientist%20%7C%20Watershed%20Science&descAlignY=65&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0D2B1A&height=200&section=header&text=Neda%20Safari&fontSize=50&fontColor=e8f0e8&desc=Environmental%20Data%20Scientist%20%7C%20Watershed%20Science&descAlignY=68&descSize=18)
 
 </div>
 
