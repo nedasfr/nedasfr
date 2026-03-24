@@ -1,7 +1,7 @@
 <div align="center">
 
-# Hi, I'm [NEDA SAFARI] 👋
-### [Environmental Data Scientist, Water Resources Researcher]
+# Hi, I'm NEDA SAFARI
+### Environmental Data Scientist, Water Resources Researcher
 
 </div>
 
