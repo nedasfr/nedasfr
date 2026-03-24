@@ -35,19 +35,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nedasfr&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0D2B1A&height=100&section=footer)
-```
-
-Here are a few dark options to compare:
-
-| Name | Hex | Tone |
-|---|---|---|
-| Deep forest | `0D2B1A` | Very dark, almost black-green |
-| Dark pine | `1A3A2A` | Dark with a bit more green |
-| Dark moss | `1E3D2F` | Dark with a warmer tone |
-| Dark hunter | `1A2E1A` | Dark, slightly cooler |
-
-Just paste the URL into your browser to preview it before committing — for example:
-```
-https://capsule-render.vercel.app/api?type=waving&color=0D2B1A&height=200&section=header&text=Neda%20Safari&fontSize=50&fontColor=white
