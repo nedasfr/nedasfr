@@ -2,30 +2,36 @@
 title: "Projects"
 ---
 
-**1.** **Evaluating Transboundary Water Governance by Dam Construction Trends. (2024- 2025) Colorado State University, Fort Collins, Colorado, USA.**
-
--   [Policies for Establishing a Guideline to Protect the Ecological Flows in NC, USA.](https://apnep.nc.gov/documents/files/projects/ap-ecological-flows-phase-ii-report) (APNEP funded project) (2022- 2023) East Carolina University, Greenville, North Carolina, USA.
-
-    ![Dams in Transboundary Basins Worldwide](TBDams.jpg){width="778"}
-
-**2. Water Quality Analysis in the Khoda Afarin Transboundary Reservoir, Iran.**
+**1. Water Quality Analysis in the Khoda Afarin Transboundary Reservoir, Iran.**
 
 ![Water Quality Change (Chlorophyll, turbidity, overall water quality)](NDWI.jpg){fig-align="center" width="803"}
 
-**3. Assessing the Environmental Effects and Regulatory Influences of the Condit Dam Removal Process**
+**2. Assessing the Environmental Effects and Regulatory Influences of the Condit Dam Removal Process**
 
 ![Location of Condit Dam on White Salmon River](Condit.jpg){width="708"}
 
-**4. Flow Analysis in Colorado River Basin**
+3\. [Policies for Establishing a Guideline to Protect the Ecological Flows in NC, USA.](https://apnep.nc.gov/documents/files/projects/ap-ecological-flows-phase-ii-report) (APNEP funded project) (2022- 2023) East Carolina University, Greenville, North Carolina, USA.
+
+![](images/Figure 1.jpg)
+
+[**4. Flow Analysis in Colorado River Basin**](https://nedasfr.github.io/WR523c/lab-01/lab-01/lab-01.html)
 
 This project examines daily streamflow records from seven U.S. Geological Survey gauges in the Colorado River Basin from 1980 to 2023, using R and the dataRetrieval package to retrieve NWIS data directly. The analysis progresses from raw discharge to a series of hydrological questions, including computing day-over-day flow changes, normalizing discharge by drainage area to allow cross-basin comparisons, monitoring low-flow thresholds using the 7-day rolling mean against historical baselines, and characterizing seasonal runoff regimes defined by the basin's two dominant pulses — Rocky Mountain snowmelt and Arizona-New Mexico monsoon. Spatial analysis shows how the flow-weighted geographic center of the basin has migrated northward over four decades, showing severe drying of southern tributaries. This analysis includes a predictive linear model that uses Glenwood Springs upstream conditions to forecast annual discharge at Lees Ferry, the Colorado River Compact's major accounting point, complete with log-log elasticity interpretation and comprehensive residual diagnostics. These calculations show how a warming climate is changing the timing, quantity, and spatial distribution of Colorado Basin flow, with consequences for interstate water delivery obligations under the 1922 Compact.
 
 ![7-day rolling mean discharge at Lees Ferry](images/clipboard-1309074513.png)
 
-**5. Flood Extent Mapping with Remote Sensing**
+[**5. Flood Extent Mapping with Remote Sensing**](https://nedasfr.github.io/WR523c/lab-04.html)
 
 In this project I used Landsat 8 satellite imagery to map the flood extent of the September 2016 Cedar River flood event near Palo, Iowa. Using R, I accessed and downloaded multispectral imagery through Microsoft Planetary Computer's STAC API, and applied five spectral index methods (NDVI, NDWI, MNDWI, WRI, and SWI) alongside an unsupervised K-Means clustering algorithm to detect and classify flooded areas. The results were compared across all six methods to assess uncertainty in flood classification, revealing that methods disagreed most at the margins of the flood extent, where shallow water, wet soil, and urban surfaces create ambiguous spectral signatures. The project demonstrated how satellite imagery and raster analysis can be used to rapidly assess flood extents in areas without real-time monitoring, which has direct applications in disaster response, damage assessment, and flood inundation mapping efforts by agencies like NOAA, USGS, and FEMA.
 
 **Skills used:** R, terra, rstac, sf, Remote Sensing, Raster Analysis, K-Means Clustering, STAC API
 
-![](images/Screenshot 2026-04-20 205542.png)
+![](images/Screenshot%202026-04-20%20205542.png)
+
+**6. [Streamflow Forecasting on the Cache la Poudre River](https://nedasfr.github.io/WR523c/lab-06.html)**
+
+This project builds an end-to-end time series forecasting pipeline for the Cache la Poudre River at Fort Collins, CO — a critical water supply source for Northern Colorado municipalities including Fort Collins, Loveland, and Greeley. Using 11 years of USGS streamflow data (2013–2023) combined with historical GridMET climate data and future MACA climate projections, I compared six forecasting models (ARIMA, Prophet, ETS, MARS, and boosted variants) using the `modeltime` and `tidymodels` frameworks in R. Models were trained on a log-transformed flow series to handle the right-skewed, snowmelt-dominated hydrology and evaluated against a held-out 2022–2023 test period.
+
+![](images/clipboard-1352725830.png)
+
+(This model is based on the <https://github.com/mikejohnson51> code)
